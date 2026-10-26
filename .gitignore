@@ -1,1 +1,4 @@
 /target
+*.wav
+secretos.toml
+detector.toml
