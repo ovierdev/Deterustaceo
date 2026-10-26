@@ -2,3 +2,8 @@
 name = "detector"
 version.workspace = true
 edition.workspace = true
+
+[dependencies]
+anyhow = "1.0.104"
+captura = { version = "0.1.0", path = "../captura" }
+hound = "3.5.1"

@@ -1,0 +1,8 @@
+[package]
+name = "captura"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+alsa = "0.12.1"
+anyhow = "1.0.104"
